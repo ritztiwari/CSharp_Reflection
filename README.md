@@ -1,4 +1,4 @@
-# Csharp-reflections  
+# CSharp-Reflections  
 This repository focuses on mastering **Reflection in C#**, enabling runtime inspection, modification, and dynamic invocation of types, members, and metadata.  
 It helps build a strong understanding of how C# programs can analyze and manipulate themselves during execution.
 
